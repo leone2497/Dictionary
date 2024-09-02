@@ -20,7 +20,8 @@ English = {
     "phase out":"eliminare progressivamente",
     "bedrock":"base, fondamento",
     "oftentimes":"frequentemente",
-    "momentum":"impeto"
+    "momentum":"impeto",
+    "dovetail":"incastarsi,andare alla perfezione"
 }
 Spanish = {
     "valia": "valore",
