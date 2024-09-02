@@ -7,6 +7,7 @@ English = {
     "brittle": "friabile",
     "dredge up": "rivangare",
     "declutter": "riordinare",
+    "heckle":"infastidire",
     "devoid":"privo",
     "headstrong":"caparbio",
     "abide":"stick to, stand for",
