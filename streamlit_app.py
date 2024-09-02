@@ -17,7 +17,9 @@ English = {
     "scuttle":"affondare (proposta),muoversi freneticamente",
     "frown upon":"biasimare, esprimere la propria contrairietà",
     "phase-out":"eliminazione progressiva",
-    "phase out":"eliminare progressivamente"
+    "phase out":"eliminare progressivamente",
+    "bedrock":"base, fondamento",
+    "oftentimes":"frequentemente"
 }
 Spanish = {
     "valia": "valore",
