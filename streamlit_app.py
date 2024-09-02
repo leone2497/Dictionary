@@ -14,7 +14,8 @@ English = {
     "toggle":"azionare,far scattare",
     "brandish":"brandire",
     "scrutiny":"esame minuzioso",
-    "scuttle":"affondare (proposta),muoversi freneticamente"
+    "scuttle":"affondare (proposta),muoversi freneticamente",
+    "frown upon":"biasimare, esprimere la propria contrairietà"
 }
 Spanish = {
     "valia": "valore",
