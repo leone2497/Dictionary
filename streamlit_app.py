@@ -12,7 +12,9 @@ English = {
     "abide":"stick to, stand for",
     "fester":"inasprirsi",
     "toggle":"azionare,far scattare",
-    "brandish",:"brandire"
+    "brandish":"brandire",
+    "scrutiny":"esame minuzioso",
+    "scuttle":"affondare (proposta),muoversi freneticamente
 }
 Spanish = {
     "valia": "valore",
