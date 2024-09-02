@@ -10,7 +10,9 @@ English = {
     "devoid":"privo",
     "headstrong":"caparbio",
     "abide":"stick to, stand for",
-    "fester":"inasprirsi"
+    "fester":"inasprirsi",
+    "toggle":"azionare,far scattare",
+    "brandish",:"brandire"
 }
 Spanish = {
     "valia": "valore",
