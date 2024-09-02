@@ -15,7 +15,9 @@ English = {
     "brandish":"brandire",
     "scrutiny":"esame minuzioso",
     "scuttle":"affondare (proposta),muoversi freneticamente",
-    "frown upon":"biasimare, esprimere la propria contrairietà"
+    "frown upon":"biasimare, esprimere la propria contrairietà",
+    "phase-out":"eliminazione progressiva",
+    "phase out":"eliminare progressivamente"
 }
 Spanish = {
     "valia": "valore",
