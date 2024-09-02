@@ -19,7 +19,8 @@ English = {
     "phase-out":"eliminazione progressiva",
     "phase out":"eliminare progressivamente",
     "bedrock":"base, fondamento",
-    "oftentimes":"frequentemente"
+    "oftentimes":"frequentemente",
+    "momentum":"impeto"
 }
 Spanish = {
     "valia": "valore",
