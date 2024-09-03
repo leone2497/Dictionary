@@ -25,7 +25,7 @@ English = {
     "dovetail":"incastarsi,andare alla perfezione",
     "hitch":"contrattempo",
     "hiccup":"contrattempo",
-    "pundti":"critico",
+    "pundit":"critico",
     "plum":"prugna,succoso"
 }
 Spanish = {
