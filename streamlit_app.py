@@ -22,12 +22,20 @@ English = {
     "bedrock":"base, fondamento",
     "oftentimes":"frequentemente",
     "momentum":"impeto",
-    "dovetail":"incastarsi,andare alla perfezione"
+    "dovetail":"incastarsi,andare alla perfezione",
+    "hitch":"contrattempo",
+    "hiccup":"contrattempo",
+    "pundti":"critico",
+    "plum":"prugna,succoso"
 }
 Spanish = {
     "valia": "valore",
     "vispera": "vigilia",
-    "arrasar": "stravincere"
+    "arrasar": "stravincere",
+    "basura":"garbage",
+    "agotar":"use up, drain, wear out",
+    "pesadilla": "nightmare"
+    
 }
 
 def get_random_word(dictionary):
