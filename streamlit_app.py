@@ -5,6 +5,7 @@ import random
 # Define the dictionaries
 English = {
     "brittle": "friabile",
+    "whizz":"sfrecciare",
     "dredge up": "rivangare",
     "declutter": "riordinare",
     "heckle":"infastidire",
