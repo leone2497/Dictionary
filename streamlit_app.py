@@ -9,6 +9,7 @@ English = {
     "declutter": "riordinare",
     "heckle":"infastidire",
     "devoid":"privo",
+    "crop up":"show up",
     "come about":"succedere",
     "headstrong":"caparbio",
     "abide":"stick to, stand for",
