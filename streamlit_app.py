@@ -34,7 +34,12 @@ Spanish = {
     "arrasar": "stravincere",
     "basura":"garbage",
     "agotar":"use up, drain, wear out",
-    "pesadilla": "nightmare"
+    "pesadilla": "nightmare",
+    "jubilado":"retired",
+    "empresariado":"businessman",
+    "pie":"foot",
+    "advertir":"warn",
+    "apenas":"barely, as soonn as"
     
 }
 
