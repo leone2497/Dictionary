@@ -38,7 +38,12 @@ English = {
     "reprehensible":"riprovevole",
     "flashpoint":"luogo di crisi;punto di rottura",
     "caterpillar":"bruco",
-    "lookout":"punto di osservazione,osservatorio"
+    "lookout":"punto di osservazione,osservatorio",
+    "ad-lib":"improvvisare",
+    "dampen":"inumidire,smorzare",
+    "prawn":"shrimp",
+    "slum":"bassifondi",
+    "click with":"andare d'accordo"
 }
 Spanish = {
     "valia": "valore",
