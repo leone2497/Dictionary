@@ -79,8 +79,9 @@ Spanish = {
     "entorno":"enviroment, surrounding",
     "recelo":"mistrust",
     "considerar":"consider, evaluate",
-    "debilitar":"weaken"
-    
+    "debilitar":"weaken",
+    "sumamente":"esxtremely",
+    "ficha":"card, file"
 }
 
 def get_random_word(dictionary):
