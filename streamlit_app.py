@@ -34,7 +34,11 @@ English = {
     "hitch":"contrattempo",
     "hiccup":"contrattempo",
     "pundit":"critico",
-    "plum":"prugna,succoso"
+    "plum":"prugna,succoso",
+    "reprehensible":"riprovevole",
+    "flashpoint":"luogo di crisi;punto di rottura",
+    "caterpillar":"bruco",
+    "lookout":"punto di osservazione,osservatorio"
 }
 Spanish = {
     "valia": "valore",
