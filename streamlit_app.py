@@ -65,7 +65,13 @@ Spanish = {
     "librar":"liberarsi, be spared",
     "producirse":"happen",
     "suponer":"suppose, mean",
-    "alcance":"range"
+    "alcance":"range",
+    "dañar":"damage, harm",
+    "huir":"flee",
+    "desplazar":"move",
+    "alcanzar":"reach, achieve",
+    "cuyos":"whose",
+    "involucrar":"involve"
     
 }
 
