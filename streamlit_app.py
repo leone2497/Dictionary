@@ -58,7 +58,14 @@ Spanish = {
     "advertir":"warn",
     "apenas":"barely, as soonn as",
     "descansar":"riposarsi",
-    "situar":"collocare  (anche figurativo)"
+    "situar":"collocare  (anche figurativo)",
+    "ingreso":"entrata, reddito",
+    "informativo":"news",
+    "ancho":"width, wide",
+    "librar":"liberarsi, be spared",
+    "producirse":"happen",
+    "suponer":"suppose, mean",
+    "alcance":"range"
     
 }
 
