@@ -57,7 +57,8 @@ Spanish = {
     "pie":"foot",
     "advertir":"warn",
     "apenas":"barely, as soonn as",
-    "descansar":"riposarsi"
+    "descansar":"riposarsi",
+    "situar":"collocare  (anche figurativo)"
     
 }
 
