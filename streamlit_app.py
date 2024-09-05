@@ -71,7 +71,15 @@ Spanish = {
     "desplazar":"move",
     "alcanzar":"reach, achieve",
     "cuyos":"whose",
-    "involucrar":"involve"
+    "involucrar":"involve",
+    "rostro":"face, image",
+    "reajuste":"reform, readjustment",
+    "asediar":"besiege",
+    "destrozar":"destroy",
+    "entorno":"enviroment, surrounding",
+    "recelo":"mistrust",
+    "considerar":"consider, evaluate",
+    "debilitar":"weaken"
     
 }
 
