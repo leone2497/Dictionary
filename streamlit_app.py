@@ -56,7 +56,8 @@ Spanish = {
     "empresariado":"businessman",
     "pie":"foot",
     "advertir":"warn",
-    "apenas":"barely, as soonn as"
+    "apenas":"barely, as soonn as",
+    "descansar":"riposarsi"
     
 }
 
