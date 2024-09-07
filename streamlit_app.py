@@ -6,6 +6,7 @@ import random
 English = {
     "brittle": "friabile",
     "whizz":"sfrecciare",
+    "squish":"spremere, strizzare",
     "dredge up": "rivangare",
     "declutter": "riordinare",
     "heckle":"infastidire",
