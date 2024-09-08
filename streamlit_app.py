@@ -8,6 +8,7 @@ English = {
     "whizz":"sfrecciare",
     "stakeout":"appostamento, punto di sorveglianza",
     "squish":"spremere, strizzare",
+    "forefront":"ribalta, riflettori",
     "dredge up": "rivangare",
     "declutter": "riordinare",
     "heckle":"infastidire",
