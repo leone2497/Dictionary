@@ -57,7 +57,9 @@ English = {
 Spanish = {
     "valia": "valore",
     "basura":"spazzatura",
+    "arrollar":" drag underneath, knock down, crush",
     "baja":"decrease in price, sick leave",
+    "arrollador":"overwhelming",
     "tasa":"fee",
     "a la baja":"on decline",
     "repercusiòn":"consequence",
