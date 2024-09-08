@@ -56,6 +56,15 @@ English = {
 }
 Spanish = {
     "valia": "valore",
+    "basura":"spazzatura",
+    "baja":"decrease in price, sick leave",
+    "tasa":"fee",
+    "a la baja":"on decline",
+    "repercusiòn":"consequence",
+    "ademàs":"in addition, also",
+    "decepcionar":"disappoint",
+    "marcha":"progress, walk",
+    "aliviar":"alleviate, relieve, ease",
     "vispera": "vigilia",
     "arrasar": "stravincere",
     "basura":"garbage",
