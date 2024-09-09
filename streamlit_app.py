@@ -5,6 +5,9 @@ import random
 # Define the dictionaries
 English = {
     "brittle": "friabile",
+    "harzardous":"pericolos",
+    "berate":"rimproverare",
+    "pelvis":"bacino",
     "whizz":"sfrecciare",
     "stakeout":"appostamento, punto di sorveglianza",
     "squish":"spremere, strizzare",
@@ -71,6 +74,8 @@ Spanish = {
     "vispera": "vigilia",
     "arrasar": "stravincere",
     "basura":"garbage",
+    "ablandar":"ammorbidire, rendere più tenero",
+    "marisco":"frutti di mare",
     "agotar":"use up, drain, wear out",
     "pesadilla": "nightmare",
     "jubilado":"retired",
