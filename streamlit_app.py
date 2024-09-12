@@ -8,6 +8,7 @@ English = {
     "disgress":"divagare",
     "harzardous":"pericolos",
     "berate":"rimproverare",
+    "sink in":"essere assorbito",
     "deformity":"deformità",
     "write up":"scrivere una critica",
     "stuck-up":"pieno di sè",
