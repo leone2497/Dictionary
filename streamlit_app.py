@@ -6,6 +6,11 @@ import random
 English = {
     "brittle": "friabile",
     "tail off":"sfumare, dileguarsi",
+    "chatter":"chicchiere",
+    "ingrain":"inculcare, instillare",
+    "allude":"alludere",
+    "let up":"attenuarsi, interrompere, smettere",
+    "underlying":"sottostante",
     "disgress":"divagare",
     "harzardous":"pericolos",
     "berate":"rimproverare",
