@@ -165,6 +165,7 @@ Spanish = {
     "destrozar":"destroy",
     "entorno":"enviroment, surrounding",
     "recelo":"mistrust",
+    "apartar":"seperate",
     "considerar":"consider, evaluate",
     "debilitar":"weaken",
     "sumamente":"esxtremely",
