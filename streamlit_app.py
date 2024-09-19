@@ -181,6 +181,7 @@ Spanish = {
     "huir":"flee",
     "desplazar":"move",
     "alcanzar":"reach, achieve",
+    "incrustar":"conficcare",
     "cuyos":"whose",
     "involucrar":"involve",
     "rostro":"face, image",
