@@ -214,7 +214,7 @@ st.title("My Dictionary App")
 
 # Sidebar for dictionary selection
 st.sidebar.title("Dictionaries")
-dictionary_type = st.sidebar.selectbox("Choose a dictionary", ["English", "Spanish"])
+dictionary_type = st.sidebar.selectbox("Choose a dictionary", ["English", "Spanish", "Francese"])
 
 # Sidebar for action selection
 st.sidebar.title("Actions")
