@@ -119,8 +119,10 @@ English = {
     "landslide":"frana",
     "swarm":"schiame, sciamare",
     "slum":"bassifondi",
-    "click with":"andare d'accordo"
-}
+    "click with":"andare d'accordo"}
+
+French = {"mot":"word"}
+
 Spanish = {
     "valia": "valore",
     "basura":"spazzatura",
@@ -224,7 +226,8 @@ action = st.sidebar.selectbox(
 )
 
 # Reference the correct dictionary based on selection
-selected_dictionary = English if dictionary_type == "English" else Spanish
+selected_dictionary = English if dictionary_type == "English" else French if dictionary_type == "French" else Spanish
+
 
 # Lookup functionality
 if action == "Lookup":
