@@ -15,6 +15,7 @@ English = {
     "reinstate":"reintregrare, ripristinare",
     "own up":"confessare",
     "ingrain":"inculcare, instillare",
+    "mileage":"chilometraggio",
     "allude":"alludere",
     "let up":"attenuarsi, interrompere, smettere",
     "underlying":"sottostante",
