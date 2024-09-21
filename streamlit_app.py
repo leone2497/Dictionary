@@ -128,9 +128,11 @@ English = {
     "landslide":"frana",
     "swarm":"schiame, sciamare",
     "slum":"bassifondi",
-    "click with":"andare d'accordo"}
+    "click with":"andare d'accordo",
+    "backlash":"reazione engativa, contraccolpo"}
 
-French = {"mot":"word"}
+French = {"mot":"word",
+         "cachottier":"secretive"}
 
 Spanish = {
     "valia": "valore",
