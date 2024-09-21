@@ -209,7 +209,7 @@ Spanish = {
     "alojamiento":"alloggio",
     "principio":"inizio",
     "bache":"buca",
-    "estrecho":"stretto"
+    "estrecho":"stretto",
     "alcance":"range",
     "dañar":"damage, harm",
     "huir":"flee",
