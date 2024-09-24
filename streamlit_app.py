@@ -10,6 +10,7 @@ English = {
     "noxious":"nocivo",
     "endowment":"sovvenzione",
     "befoul":"infangare",
+    "outline":"contorno, traccia",
     "wicked":"cattiva",
     "shrine":"reliquia",
     "besume":"confondere",
