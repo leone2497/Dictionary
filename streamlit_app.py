@@ -218,6 +218,7 @@ Spanish = {
     "pesadilla": "nightmare",
     "jubilado":"retired",
     "empresariado":"businessman",
+    "direcciòn":"adress",
     "pie":"foot",
     "disparar":"fire, shoot",
     "profundizar":"do something with a deep focus",
