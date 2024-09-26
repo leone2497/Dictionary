@@ -178,6 +178,7 @@ Spanish = {
     "equivocarse":"get mistaken",
     "restrasar":"postpone, delay",
     "paro":"strike",
+    "apuntar":"point at",
     "guardar":"watch over",
     "pendiente":"pending",
     "entorpecer":"hinder",
