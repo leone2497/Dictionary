@@ -9,6 +9,7 @@ English = {
     "chatter":"chicchiere",
     "noxious":"nocivo",
     "endowment":"sovvenzione",
+    "scrib":"strofinare",
     "befoul":"infangare",
     "outline":"contorno, traccia",
     "wicked":"cattiva",
