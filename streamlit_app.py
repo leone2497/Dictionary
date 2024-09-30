@@ -253,6 +253,7 @@ Spanish = {
     "degradar":"demote, degrade",
     "escalata":"escalation",
     "echar":"throw",
+    "literal":"literal",
     "jalar":"pull",
     "estirar":"stretch",
     "cepillo":"toothbrush",
