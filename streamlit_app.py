@@ -156,6 +156,7 @@ Spanish = {
     "arrollar":" drag underneath, knock down, crush",
     "baja":"decrease in price, sick leave",
     "arrollado":"overwhelming",
+    "dirigir":"run, adress, head",
     "tasa":"fee",
     "relajar":"relax",
     "enfocar":"focus",
