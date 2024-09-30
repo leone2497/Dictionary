@@ -193,6 +193,13 @@ Spanish = {
     "pendiente":"pending",
     "entorpecer":"hinder",
     "exigir":" require, ask",
+    "acabado":"exhausted",
+    "pertenecer":"belong to, be the responsibility",
+    "parcela":"plot",
+    "medicion":"measuring",
+    "a menudo":"often",
+    "ajustar":"adjust, stick to",
+    
     "apetecer":"crave, long for",
     "mantener":"keep",
     "convenio":"agreement",
