@@ -311,6 +311,7 @@ Spanish = {
     "alcance":"range",
     "estirada/o":"stuck-up",
     "dañar":"damage, harm",
+    "brigarse":"protect from cold, take shelter",
     "huir":"flee",
     "desplazar":"move",
     "alcanzar":"reach, achieve",
