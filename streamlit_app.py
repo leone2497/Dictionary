@@ -207,6 +207,7 @@ Spanish = {
     "reto":"challenge",
     "retar":"sfidare",
     "docena":"dozen",
+    "almuerzo":"lunch",
     "jueves":"thrusday",
     "pesado":"pesante",
     "lujo":"lusso",
