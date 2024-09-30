@@ -169,6 +169,7 @@ Spanish = {
     "ademàs":"in addition, also",
     "hace rato":"it's been a while",
     "azùcar":"sugar",
+    "bloquear":"block, jam",
     "soler":"usually + verb (it is a verb soler",
     "pan":"bread",
     "grabar":"record, film",
