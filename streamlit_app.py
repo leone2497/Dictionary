@@ -195,6 +195,7 @@ Spanish = {
     "apetecer":"crave, long for",
     "mantener":"keep",
     "convenio":"agreement",
+    "pila":"battery",
     "fundamento":"bedrock",
     "arrasar": "stravincere",
     "basura":"garbage",
