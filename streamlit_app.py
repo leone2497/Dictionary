@@ -208,6 +208,8 @@ Spanish = {
     "temprano":"presto",
     "michila":"backpack",
     "agregar":"add",
+    "agarrar":"grab, catch",
+    "chamarra":"coat",
     "reto":"challenge",
     "retar":"sfidare",
     "docena":"dozen",
