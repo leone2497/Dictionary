@@ -210,6 +210,7 @@ Spanish = {
     "docena":"dozen",
     "almuerzo":"lunch",
     "jueves":"thrusday",
+    "ni siquiera":"not even",
     "pesado":"pesante",
     "lujo":"lusso",
     "cabaña":"capanna",
