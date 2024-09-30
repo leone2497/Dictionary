@@ -164,6 +164,7 @@ Spanish = {
     "huerto":"kitchen garden",
     "plantearse":"consider, think about",
     "a la baja":"on decline",
+    "imcumplido":"irresponsible, unreliable",
     "repercusiòn":"consequence",
     "ademàs":"in addition, also",
     "hace rato":"it's been a while",
