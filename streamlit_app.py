@@ -366,6 +366,8 @@ Spanish = {
     "entorno":"enviroment, surrounding",
     "recelo":"mistrust",
     "apartar":"seperate",
+    "molestar":"bother",
+    "tabla":"table",
     "considerar":"consider, evaluate",
     "debilitar":"weaken",
     "sumamente":"esxtremely",
