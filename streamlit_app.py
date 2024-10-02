@@ -220,6 +220,8 @@ Spanish = {
     "acontecimiento":"event",
     "temprano":"presto",
     "michila":"backpack",
+    "concurrido":"crowded",
+    "concurrir":"meet, get together",
     "agregar":"add",
     "agarrar":"grab, catch",
     "chamarra":"coat",
