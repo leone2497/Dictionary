@@ -9,6 +9,8 @@ English = {
     "chatter":"chicchiere",
     "noxious":"nocivo",
     "endowment":"sovvenzione",
+    "baffle":"confondere",
+    "pummel":"prendere a pugni, distruggere",
     "scrib":"strofinare",
     "befoul":"infangare",
     "outline":"contorno, traccia",
@@ -203,7 +205,7 @@ Spanish = {
     "medicion":"measuring",
     "a menudo":"often",
     "ajustar":"adjust, stick to",
-    
+    "presumir":"brag",
     "apetecer":"crave, long for",
     "mantener":"keep",
     "convenio":"agreement",
