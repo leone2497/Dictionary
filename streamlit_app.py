@@ -6,7 +6,12 @@ import random
 English = {
     "brittle": "friabile",
     "tail off":"sfumare, dileguarsi",
+    "moratorium":"moratoria",
+    "tick off":"depennare",
     "chatter":"chicchiere",
+    "witty":"astuto",
+    "rollover":"rinnovo (finance)",
+    "swaddle":"fasciacre",
     "noxious":"nocivo",
     "endowment":"sovvenzione",
     "baffle":"confondere",
