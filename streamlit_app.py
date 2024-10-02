@@ -155,10 +155,22 @@ English = {
     "backlash":"reazione engativa, contraccolpo"}
 
 French = {"mot":"word",
-         "cachottier":"secretive"}
+         "cachottier":"secretive",
+         "aujourd'hui":"today",
+         "ville":"city"}
 
 Spanish = {
     "valia": "valore",
+    "otoño":"autumn",
+    "efectivo":"cash",
+    "chiso":"cool",
+    "hospedaje":"lodging",
+    "mover":"move",
+    "neta":"truth",
+    "fijar":"set",
+    "tener onda":"essere bello",
+    "boleto":"ticket",
+    "llevar a cabo":"carry out",
     "basura":"spazzatura",
     "arrollar":" drag underneath, knock down, crush",
     "baja":"decrease in price, sick leave",
