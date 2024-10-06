@@ -333,6 +333,7 @@ Spanish = {
     "estomago":"stomach",
     "dosis":"dose",
     "familiarizarse":"get used, get comfortable",
+    "coto":"reserve, enclosed land",
     "audiphonos":"heapphone",
     "algo asi":"qualcosa del genere",
     "facilitar":"provide,facilitate",
