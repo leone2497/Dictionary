@@ -252,6 +252,7 @@ Spanish = {
     "agarrar":"grab, catch",
     "chamarra":"coat",
     "reto":"challenge",
+    "chido":"cool",
     "retar":"sfidare",
     "docena":"dozen",
     "almuerzo":"lunch",
