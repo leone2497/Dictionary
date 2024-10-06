@@ -300,6 +300,7 @@ Spanish = {
     "cese":"stoppage",
     "ablandar":"ammorbidire, rendere più tenero",
     "marisco":"frutti di mare",
+    "teja":"tile",
     "agotar":"use up, drain, wear out",
     "pesadilla": "nightmare",
     "oscurecer":"get dark",
