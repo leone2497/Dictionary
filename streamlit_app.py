@@ -223,6 +223,7 @@ Spanish = {
     "apuntar":"point at",
     "guardar":"watch over",
     "pendiente":"pending",
+    "agotar":"run out, wear out",
     "entorpecer":"hinder",
     "exigir":" require, ask",
     "acabado":"exhausted",
