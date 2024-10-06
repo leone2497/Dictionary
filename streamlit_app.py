@@ -8,6 +8,7 @@ English = {
     "tail off":"sfumare, dileguarsi",
     "outreach":"eccedere",
     "sway":"ondeggiare",
+    "thoroughfare":"strada principale",
     "reprehend":"rimproverare",
     "workaround":"soluzione temporanea",
     "gamey":"vigoroso",
