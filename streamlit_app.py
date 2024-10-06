@@ -360,6 +360,7 @@ Spanish = {
     "suscribir":"subscribe",
     "encubierta":"fraud",
     "tener onda":"figo",
+    "audifono":"headphone",
     "rehen":"hostage",
     "cohete":"rocket",
     "mando":"authority, head",
