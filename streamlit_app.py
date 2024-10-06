@@ -330,6 +330,7 @@ Spanish = {
     "apenas":"barely, as soonn as",
     "descansar":"riposarsi",
     "propina":"tips",
+    "fungir":"serve as, act as",
     "apartarse":" go different ways, get separeted",
     "desahogar":"give vent, pat off or free you of debt",
     "recelo":"mistrust",
