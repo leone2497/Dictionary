@@ -236,6 +236,7 @@ Spanish = {
     "mantener":"keep",
     "convenio":"agreement",
     "pila":"battery",
+    "inalambrico":"wireless",
     "fundamento":"bedrock",
     "arrasar": "stravincere",
     "basura":"garbage",
