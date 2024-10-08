@@ -413,6 +413,7 @@ Spanish = {
     "arraigar":"root",
     "solicitar":"request, ask for",
     "tener onda":"figo",
+    "aislar":"isolate",
     "audifono":"headphone",
     "rehen":"hostage",
     "rama":"branch",
