@@ -408,6 +408,7 @@ Spanish = {
     "disuadir":"dissuade",
     "exacerbar":"exacerbate",
     "tarea":"job, task",
+    "trasladar":"transfer",
     "desafio":"reto",
     "estrechamente":"closely",
     "suscribir":"subscribe",
