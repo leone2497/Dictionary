@@ -389,6 +389,7 @@ Spanish = {
     "ingreso":"entrata, reddito",
     "informativo":"news",
     "ancho":"width, wide",
+    "transferencia":"transfer",
     "suen(gn)":"sleep",
     "correo":"mail",
     "alarma":"alarm",
