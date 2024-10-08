@@ -415,6 +415,7 @@ Spanish = {
     "tener onda":"figo",
     "aislar":"isolate",
     "audifono":"headphone",
+    "acostumbrar":"get used to",
     "rehen":"hostage",
     "rama":"branch",
     "cohete":"rocket",
