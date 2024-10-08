@@ -310,6 +310,10 @@ Spanish = {
     "intendente":"manager",
     "saquear":"loot",
     "interactuar":"interact",
+    "poseer":"own, possess",
+    "exento":"exempt",
+    "seguro":"unsurance",
+    "cumplir":"reach, accomplish",
     "fuente":"fountain, source",
     "lanzadera":"shuttle",
     "alertar":"alert, warn",
@@ -320,6 +324,7 @@ Spanish = {
     "subvenciòn":"subcidy, grant",
     "caro":"expensive",
     "huelga":"paro",
+    "fortaleza":"fortress, stronghold, strenght"
     "tripulante":"crew member",
     "cese":"stoppage",
     "ablandar":"ammorbidire, rendere più tenero",
