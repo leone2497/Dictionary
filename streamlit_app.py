@@ -207,6 +207,7 @@ Spanish = {
     "bloquear":"block, jam",
     "soler":"usually + verb (it is a verb soler",
     "pan":"bread",
+    "acudir":"go to, attend",
     "grabar":"record, film",
     "decepcionar":"disappoint",
     "hablar acerca":"discuss about",
