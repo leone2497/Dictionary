@@ -224,6 +224,7 @@ Spanish = {
     "desbordar":"overflow, go beyond",
     "brecha":"hole, rift",
     "cotizar":"be listed",
+    "lentillas":"contat lensis",
     "alcade,alcadesa":"mayor",
     "imprevisible":"unpredictable",
     "prolungar":"prolong",
